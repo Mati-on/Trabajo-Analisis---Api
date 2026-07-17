@@ -1,0 +1,5 @@
+por temas de tamaño que permite el github se recomienda descargar el archivo completo desde el link de drive del profesor y guardar el documentos csv en la carpeta data
+
+https://drive.google.com/drive/folders/1rZwEdktdFB_kkYD0qhO_2f1WoM6WTy_u?usp=sharing
+
+recuerde actualizar la ultima version de python disponible (13.3.3) saludos :)
